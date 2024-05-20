@@ -54,3 +54,6 @@ if (err != nil) {
 
 // reDerivedAddress == nanoAddress
 ```
+---
+
+For further reading examine [seeds.go](https://github.com/Tumbler/nanoKeyManager/blob/main/seeds.go)
